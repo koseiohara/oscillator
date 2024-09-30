@@ -1,6 +1,6 @@
 # Oscillator
 
-Test Environment : gfortran 14.2.0, Python 3.12.6, matplotlib 3.9.2, numpy 2.1.1, ffmpeg 7.0.2
+Test Environment : macOS Sonoma 14.4.1, Intel Corei3, gfortran 14.2.0, Python 3.12.6, matplotlib 3.9.2, numpy 2.1.1, ffmpeg 7.0.2
 
 This is a program to simulate coupled oscillations.
 Tested numbers of the mass points are 1, 2, 3, and 10.
