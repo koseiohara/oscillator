@@ -1,0 +1,17 @@
+&time
+    simulation_seconds = 100
+    time_delta         = 0.01
+    output_delta       = 0.05
+/
+ 
+&constant  
+    number_of_particles = 10
+    mass_of_particles   = 0.01
+    spring_constant     = 0.1
+    spring_length       = 0.2
+/
+
+&file
+    output_filename = '../output/position.bin'
+/
+

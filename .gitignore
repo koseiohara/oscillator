@@ -1,0 +1,10 @@
+*.o
+*.mod
+OSCILLATOR
+*.bin
+*.dat
+*.grd
+*.mp4
+*.gif
+__pycache__
+
