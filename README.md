@@ -5,6 +5,7 @@ Test Environment : macOS Sonoma 14.4.1, Intel Corei3, gfortran 14.2.0, Python 3.
 This is a program to simulate coupled oscillations.
 Tested numbers of the mass points are 1, 2, 3, and 10.
 Most settings are configured within the namelist.
+For changing the initial conditions, edit init() in src/oscillator.f90.
 Specify the file name of the namelist in Makefile.
 The program can be compiled by "make".
 To execution, enter "make run" in src/.
